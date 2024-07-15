@@ -21,7 +21,7 @@ Follow the steps below to set up and run the chatbot project.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/learning-generative-ai-with-projects.git
+    git clone https://github.com/nitishsadhu03/learning-generative-ai-with-projects.git
     cd learning-generative-ai-with-projects/chatbot
     ```
 
